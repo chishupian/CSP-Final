@@ -1,0 +1,15 @@
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\bin\Debug\KTV.exe.config
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\bin\Debug\KTV.exe
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\bin\Debug\KTV.pdb
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\obj\Debug\KTV.csprojAssemblyReference.cache
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\obj\Debug\KTV.Form1.resources
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\obj\Debug\KTV.Properties.Resources.resources
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\obj\Debug\KTV.csproj.GenerateResource.cache
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\obj\Debug\KTV.csproj.CoreCompileInputs.cache
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\obj\Debug\KTV.exe
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\obj\Debug\KTV.pdb
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\bin\Debug\Interop.WMPLib.dll
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\bin\Debug\AxInterop.WMPLib.dll
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\obj\Debug\Interop.WMPLib.dll
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\obj\Debug\AxInterop.WMPLib.dll
+D:\武带\大二下\软件构造基础\csharpWork\final\KTV\obj\Debug\KTV.csproj.ResolveComReference.cache
